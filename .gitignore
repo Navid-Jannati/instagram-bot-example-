@@ -1,0 +1,11 @@
+local_settings*
+*.exe
+*.log
+
+*.txt
+
+Venv/
+
+*/
+
+
